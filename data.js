@@ -7,7 +7,7 @@ const languageContent = {
     target:
       'I strive to be part of a friendly and professional team where I could develop my skills to achieve team results',
     title02: 'Contacts',
-    address: 'Most, Czech Republic, 43401',
+    address: 'Most, CR (remote/hybrid)',
     phone: '+380 506 045 095 (messengers)',
     title03: 'Skills',
     title04: 'Social Media',
@@ -43,7 +43,7 @@ const languageContent = {
     target:
       'Snažím se být součástí přátelského a profesionálního týmu, kde jsem mohl rozvíjet své schopnosti k dosažení týmových výsledků',
     title02: 'Kontakty',
-    address: 'Most, Česká republika, 43401',
+    address: 'Most, ČR (dálkové/hybridní)',
     phone: '+380 506 045 095 (posly)',
     title03: 'Dovednosti',
     title04: 'Sociální média',
