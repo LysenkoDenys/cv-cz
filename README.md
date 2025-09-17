@@ -2,7 +2,7 @@
 
 A modern, responsive **online CV** built with **HTML, CSS, and JavaScript**, featuring an interactive layout, multilingual support, and project showcases.
 
-🌐 **Live Demo:** [cv-lysenko.vercel.app](https://cv-lysenko.vercel.app)
+🌐 **Live Demo:** [cv-lysenko-cz.vercel.app](https://cv-lysenko-cz.vercel.app
 
 ---
 
@@ -49,7 +49,7 @@ _(Replace with full screenshot of your site)_
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/cv-lysenko.git
+   git clone https://github.com/LysenkoDenys/cv-cz
    cd cv-lysenko
    ```
 
