@@ -1,13 +1,95 @@
-# This is my CV-CZ
+# 📄 Interactive Resume – Denys Lysenko
 
-### Deployed here: https://cv-lysenko-cz.vercel.app
+A modern, responsive **online CV** built with **HTML, CSS, and JavaScript**, featuring an interactive layout, multilingual support, and project showcases.
 
-<p>Sample:</p>
-![586](https://github.com/user-attachments/assets/515d1522-3d6e-49cd-8d04-58bffc74d882)
-<p>This JS project uses next plug-ns, API, libraries:</p>
-<ul>
-<li>https://animejs.com</li>
-</ul>
-<p>Totally adaptive to most popular devices.</p>
-<p>100% user friendly by lighthouse since 2024-08-26</p>
-![lh](https://github.com/user-attachments/assets/e977b639-5586-4ee4-a092-b33e47424764)
+🌐 **Live Demo:** [cv-lysenko.vercel.app](https://cv-lysenko.vercel.app)
+
+---
+
+## 🔗 Quick Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lysenko-denys)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LysenkoDenys)
+[![Vercel](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cv-lysenko.vercel.app)
+
+---
+
+## 🚀 Features
+
+- 🌐 **Multilingual support** (EN, CZ, UA)
+- 👤 Profile photo + direct link to **LinkedIn**
+- 📍 Contact information with clickable links (email, phone, location)
+- 💼 Highlighted **skills, projects, education, and courses**
+- 🛠️ Showcase of **real projects** with live demos & GitHub links
+- 📱 Fully responsive design
+- ♿ Accessible with **ARIA labels**
+- ⚡ PWA-ready (service worker included)
+
+---
+
+## 🖼️ Demo Preview
+
+![Resume Screenshot](./image/photo.png)  
+_(Replace with full screenshot of your site)_
+
+---
+
+## 📦 Technologies Used
+
+- **HTML5** – semantic structure
+- **CSS3 / TailwindCSS** – modern styling
+- **JavaScript (ES6+)** – dynamic features
+- **Anime.js** – animations
+- **Service Worker** – offline-ready
+
+---
+
+## 🛠️ How to Run Locally
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/your-username/cv-lysenko.git
+   cd cv-lysenko
+   ```
+
+## 🛠️ How to Run Locally
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/your-username/cv-lysenko.git
+   cd cv-lysenko
+   Install dependencies (if any):
+   ```
+
+(Optional, if you add a bundler later)
+
+Run locally:
+
+Simply open index.html in your browser
+or serve with any local server (e.g., VSCode Live Server).
+
+📁 Project Structure
+
+<pre> ├── index.html # Main HTML file (Resume) ├── styles/ │ └── style.css # App styling ├── script.js # JS logic (animations, interactivity) ├── image/ # Profile photo & assets ├── sw.js # Service Worker for PWA └── README.md # This file </pre>
+
+🔮 Future Improvements
+
+Add dark mode toggle
+
+Improve accessibility (keyboard navigation, ARIA roles)
+
+Add download PDF button for offline CV version
+
+Include animations for section transitions
+
+🧑‍💻 Author
+Denys Lysenko
+
+LinkedIn
+
+GitHub
+
+📄 License
+MIT — Feel free to use and modify.
