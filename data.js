@@ -13,7 +13,7 @@ const languageContent = {
     title04: 'Social Media',
     title05: 'About',
     about:
-      'I`m an enthusiastic and detail-oriented Frontend Web Developer (Junior) seeking an entry-level position with Company to use my skills in coding, troubleshooting complex problems, and assisting in the timely completion of projects',
+      'I`m an enthusiastic and detail-oriented Frontend Web Developer seeking an entry-level position with Company to use my skills in coding, troubleshooting complex problems, and assisting in the timely completion of projects',
     title06: 'Education',
     education01:
       'National Metallurgical Academy of Ukraine - metallurgical engineer',
@@ -49,7 +49,7 @@ const languageContent = {
     title04: 'Sociální média',
     title05: 'O sobě',
     about:
-      'Jsem nadšený frontendový webový vývojář orientovaný na detaily (Junior) hledá pozici na základní úrovni u společnosti, abych mohl používat můj dovednosti v kódování, řešení složitých problémů a asistování ve včasném dokončení projektů',
+      'Jsem nadšený frontendový webový vývojář orientovaný na detaily hledá pozici na základní úrovni u společnosti, abych mohl používat můj dovednosti v kódování, řešení složitých problémů a asistování ve včasném dokončení projektů',
     title06: 'Vzdělání',
     education01:
       'Národní metalurgická akademie Ukrajiny - metalurgický inženýr',
