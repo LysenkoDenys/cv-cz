@@ -10,7 +10,7 @@ A modern, responsive **online CV** built with **HTML, CSS, and JavaScript**, fea
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lysenko-denys)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LysenkoDenys)
-[![Vercel](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cv-lysenko.vercel.app)
+[![Vercel](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cv-lysenko-cz.vercel.app)
 
 ---
 
@@ -29,8 +29,7 @@ A modern, responsive **online CV** built with **HTML, CSS, and JavaScript**, fea
 
 ## 🖼️ Demo Preview
 
-![Resume Screenshot](./image/photo.png)  
-_(Replace with full screenshot of your site)_
+<img width="645" height="898" alt="Image" src="https://github.com/user-attachments/assets/e8665ddd-c0c3-45f3-b4f2-148df26a84dd" />
 
 ---
 
@@ -70,11 +69,19 @@ Run locally:
 Simply open index.html in your browser
 or serve with any local server (e.g., VSCode Live Server).
 
-📁 Project Structure
+## 📁 Project Structure
 
-<pre> ├── index.html # Main HTML file (Resume) ├── styles/ │ └── style.css # App styling ├── script.js # JS logic (animations, interactivity) ├── image/ # Profile photo & assets ├── sw.js # Service Worker for PWA └── README.md # This file </pre>
+<pre> 
+├── index.html # Main HTML file (Resume) 
+├── styles/ │ 
+   └── style.css # App styling 
+├── script.js # JS logic (animations, interactivity) 
+├── image/ # Profile photo & assets 
+├── sw.js # Service Worker for PWA 
+   └── README.md # This file 
+   </pre>
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 Add dark mode toggle
 
@@ -84,12 +91,13 @@ Add download PDF button for offline CV version
 
 Include animations for section transitions
 
-🧑‍💻 Author
+## 🧑‍💻 Author
+
 Denys Lysenko
 
-LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lysenko-denys)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LysenkoDenys)
 
-GitHub
+## 📄 License
 
-📄 License
 MIT — Feel free to use and modify.
