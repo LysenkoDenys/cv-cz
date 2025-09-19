@@ -134,6 +134,7 @@ li {
   box-shadow: 5px 5px 5px var(--shadow-color);
   height: auto;
   width: 70%;
+  aspect-ratio: 1 / 1;
 }
 @media (max-width: 992px) {
   .info__img {
@@ -343,6 +344,7 @@ li {
   margin: 3px;
   background-color: var(--secondary-color);
   flex-shrink: 0;
+  aspect-ratio: 1 / 1;
 }
 @media (max-width: 479px) {
   .sprite {
@@ -402,6 +404,7 @@ li {
   margin-right: calc(var(--standard-margin) - 3rem);
   margin-top: calc(var(--standard-margin) - 3rem);
   box-shadow: 5px 5px 5px var(--shadow-color);
+  aspect-ratio: 1 / 1;
 }
 
 .media:hover {
