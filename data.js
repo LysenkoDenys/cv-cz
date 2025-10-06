@@ -27,7 +27,7 @@ const languageContent = {
     title08: 'Languages',
     lang01: 'ukrainian (native)',
     lang02: 'english - intermediate (B2)',
-    lang03: 'czech - elementary (A1)',
+    lang03: 'czech - elementary (A2)',
     title09: 'Projects',
     project01: '[The application helps to buy, sell or rent estate]',
     project02:
@@ -63,7 +63,7 @@ const languageContent = {
     title08: 'Jazyky',
     lang01: 'ukrajinský (rodilý)',
     lang02: 'angličtina - středně pokročilí (B2)',
-    lang03: 'čeština - začátečník (A1)',
+    lang03: 'čeština - začátečník (A2)',
     title09: 'Projekty',
     project01: '[Aplikace pomáhá koupit, prodat nebo pronajmout nemovitost]',
     project02:
@@ -98,7 +98,7 @@ const languageContent = {
     title08: 'Мови',
     lang01: 'українська (рідна)',
     lang02: 'англійська - середній (B1)',
-    lang03: 'чеська - початківець (A1)',
+    lang03: 'чеська - початківець (A2)',
     title09: 'Проєкти',
     project01: '[Допомагає купити, продати, орендувати нерухомість]',
     project02:
